@@ -2,6 +2,12 @@
 
 AR.js+A-Frameで雑にサクッとAR名刺を作るレポジトリ
 
+詳しい手順については[ブログ](https://murabitoleg.com/simple-ar-meishi/)を参照してください．
+
+## 完成形
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZFQxX1sKyss" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 ## 作成手順
 
 1. このレポジトリをとりあえずclone(or fork)する．
